@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px">
 </p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=36BCF7&center=true&vCenter=true&width=600&lines=⚡+Code.+Create.+Inspire.;🚀+Front-End+Developer;🌟+React.js+%7C+Node.js+%7C+MongoDB;💡+Lifelong+Learner">
 </h1>
@@ -56,6 +57,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanvirAhmed41&theme=react-dark"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TanvirAhmed41&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1"/>
 </p>
 
 ---
