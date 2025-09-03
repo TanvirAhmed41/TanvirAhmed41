@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Md. Tanvir Ahmed</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px">
+</p>
+
+<h1 align="center">🚀 Md. Tanvir Ahmed</h1>
+<h3 align="center">Crafting Interactive & Modern Web Experiences 🌐</h3>
+
 <h3 align="center">🚀 Front-End Developer | Junior Software Engineer | Tech Enthusiast</h3>
 
 <!-- Typing SVG animation -->
