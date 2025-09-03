@@ -1,56 +1,64 @@
-# 👋 Hi, I'm Md. Tanvir Ahmed  
+<h1 align="center">Hi 👋, I'm Md. Tanvir Ahmed</h1>
+<h3 align="center">🚀 Front-End Developer | Junior Software Engineer | Tech Enthusiast</h3>
 
-🚀 Front-End Developer | Junior Software Engineer | Tech Enthusiast  
-
-🔹 Passionate about creating responsive and user-friendly web applications.  
-🔹 Skilled in **React.js, Node.js, ASP.NET MVC, SQL, and modern web technologies**.  
-🔹 Strong foundation in **software development, API integration, and reporting systems**.  
-🔹 Love solving problems, collaborating in teams, and contributing to open-source.  
-
----
-
-## 🛠️ Skills & Technologies  
-
-**Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, Tailwind CSS  
-**Backend:** Node.js, Express.js, ASP.NET (MVC), REST APIs  
-**Database:** MongoDB, SQL  
-**Tools:** GitHub, VS Code, Netlify, Vercel, Firebase, Figma  
-**Other:** Crystal Reports, SSRS, Microsoft Office  
+<!-- Typing SVG animation -->
+<p align="center">
+  <a href="https://github.com/TanvirAhmed41">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F76C6C&center=true&vCenter=true&width=500&lines=Front-End+Developer;React.js+%7C+Node.js+%7C+MongoDB;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%9A%80">
+  </a>
+</p>
 
 ---
 
-## 📌 Projects  
+## 🛠️ Tech Stack  
 
-### [Chef World 🍳](https://github.com/TanvirAhmed41/chef-world)  
-🔸 Chef and recipes portal with authentication system.  
-🔸 Users can view chefs, add favorite recipes, and explore details.  
-**Stack:** React.js, Node.js, Express, Firebase, Bootstrap  
-
-### [Kids Khela Ghor 🎲](https://github.com/TanvirAhmed41/kids-khela-ghor-clinet)  
-🔸 Kids toy service site with Firebase authentication.  
-🔸 Users can add, edit, and delete items from the cart.  
-**Stack:** React.js, Node.js, MongoDB, Firebase, Tailwind  
-
-### [Chakri Khuji 💼](https://github.com/TanvirAhmed41)  
-🔸 Job portal where users can search and apply for jobs.  
-**Stack:** React.js, Node.js, Express.js, Firebase, Tailwind  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github,vscode,figma" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Projects  
 
-![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanvirAhmed41&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmed41&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TanvirAhmed41&theme=radical)  
+### 🍳 [Chef World](https://github.com/TanvirAhmed41/chef-world)  
+🔸 Recipe portal with authentication & favorites  
+**Stack:** React.js | Node.js | Express | Firebase  
+
+### 🎲 [Kids Khela Ghor](https://github.com/TanvirAhmed41/kids-khela-ghor-clinet)  
+🔸 Kids toy service site with full CRUD features  
+**Stack:** React.js | MongoDB | Firebase | Tailwind  
+
+### 💼 [Chakri Khuji](https://github.com/TanvirAhmed41)  
+🔸 Job portal where users can search & apply  
+**Stack:** React.js | Express | Firebase | Tailwind  
+
+---
+
+## 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanvirAhmed41&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmed41&layout=compact&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirAhmed41&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanvirAhmed41&theme=react-dark"/>
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tanvir-ahmed-458a08195/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://sites.google.com/view/tanvirworld/home)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanvirAhmed41)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-tanvir-ahmed-458a08195/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/TanvirAhmed41"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://sites.google.com/view/tanvirworld/home"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐ **Fun Fact:** I love coding, public speaking, and exploring new technologies!  
+⭐ Fun Fact: *I love coding, public speaking, and exploring new technologies!*  
