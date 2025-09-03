@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px">
 </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=36BCF7&center=true&vCenter=true&width=600&lines=⚡+Code.+Create.+Inspire.;🚀+Front-End+Developer;🌟+React.js+%7C+Node.js+%7C+MongoDB;💡+Lifelong+Learner">
+</h1>
 
 <h1 align="center">🚀 Md. Tanvir Ahmed</h1>
 <h3 align="center">Crafting Interactive & Modern Web Experiences 🌐</h3>
