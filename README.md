@@ -76,6 +76,8 @@
   <a href="https://sites.google.com/view/tanvirworld/home"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
+⭐ Fun Fact: *I love coding, public speaking, and exploring new technologies!*  
+
 ---
 
 ## 🐍 Contribution Snake  
@@ -83,5 +85,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanvirAhmed41/TanvirAhmed41/output/snake.svg" alt="Snake animation" />
 </p>
-
-⭐ Fun Fact: *I love coding, public speaking, and exploring new technologies!*  
